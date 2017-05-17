@@ -1,0 +1,6 @@
+person_twitter,event_twitter,who,eventid,event_name,category,event_date,better_date,site,event_and_date
+@andreas90,@pydata,Andreas B,3.0,PyData,tech,5/1/2017,20170501,http://bcd.com,PyData-20170501
+@johns87,@pydata,John S,3.0,PyData,tech,5/1/2017,20170501,http://johnny.com,PyData-20170501
+@smallc,@pydata,SmallCompany,3.0,PyData,tech,5/1/2017,20170501,http://smallcompanyz.com,PyData-20170501
+@tiuksla,@pydata,Mia T,3.0,PyData,tech,5/1/2017,20170501,http://www.themia.com,PyData-20170501
+@yla5,@pydata,Sun T,3.0,PyData,tech,5/1/2017,20170501,http://yellowlake.com,PyData-20170501
