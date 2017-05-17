@@ -34,4 +34,11 @@ This should automatically populate the necessary csvs.
 
 *Please note that you cannot change the names of the directories (like the _DataEngineeringExercise_ directory)
 or you will break the package*
-Enjoy!
+
+_I have written a total of Five Tests which can be run with the following command_
+
+```python
+python3 test_airfinity_answer.py
+```
+
+*Enjoy!*
